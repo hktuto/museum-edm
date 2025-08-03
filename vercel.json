@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "*"
+          "value": "https://edm.museumsummit.gov.hk"
         },
         {
           "key": "Access-Control-Allow-Methods",
